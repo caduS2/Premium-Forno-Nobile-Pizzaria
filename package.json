@@ -1,5 +1,6 @@
 {
-  "name": "react-example",
+  "name": "forno-nobile-premium",
+  "description": "Projeto demonstrativo Premium de uma pizzaria artesanal desenvolvido pela CF Web Studio.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
