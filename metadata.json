@@ -1,0 +1,6 @@
+{
+  "name": "Forno Nobile Pizzaria",
+  "description": "Pizzaria artesanal premium contemporânea com cardápio interativo, montagem de pedido e experiência digital exclusiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
